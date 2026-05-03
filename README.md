@@ -95,7 +95,7 @@ An interactive web app is built using Streamlit:
 
 ```bash
 # Clone the repository
-git clone <your-repo-link>
+git clone https://github.com/naveen-kumar2006/CUSTOMER_SEGMENTATION
 
 # Navigate to project folder
 cd customer-segmentation
@@ -128,6 +128,7 @@ customer-segmentation/
 * pandas
 * scikit-learn
 * joblib
+* python-version 3.11
 
 ---
 
